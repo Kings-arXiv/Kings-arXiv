@@ -1,5 +1,5 @@
 👑 Who Am I
-    Dong-Keon Kim, Researcher in Seoul
+  - Dong-Keon Kim, Researcher in Seoul
   
 👀 Interested in
   - Deep Learning, Computer Vision, Time Series Forecasting, Machine Learning Convergence Studies, etc.
