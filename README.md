@@ -26,10 +26,10 @@
   - Pidotech, Researcher (Technical Research Pesonnel), 2022.04 ~ 
 
 💞️ Programming Language
-  C, Python, Java
+  - C, Python, Java
   
 📫 Contact Me
-  kdk199604@gmail.com
+  - kdk199604@gmail.com
 
 <!---
 
