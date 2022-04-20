@@ -9,7 +9,7 @@
   - B.S. in Systems Management Engineering, Sungkyunkwan University, 2020
   - B.S. in Electronic and Electrical Engineering, Sungkyunkwan University, 2020
   
-📜Paper
+📜 Paper
   - A Study on Artificial Intelligence Model for Forecasting Daily Demand of Tourist Using Domestic Foreign Visitors Immigration Data
     (Proceedings of the Korean Institute of Information and Commucation Sciences Conference, 2021)
   - A Daily Tourism Demand Prediction Framework Based on Multi-head Attention CNN: The Case of The Foreign Entrant in South Korea
@@ -21,7 +21,7 @@
   - A Convolutional Transformer Model for Multivariate Time Series Prediction
     (Preprints)
 
-🚢Careers
+🚢 Careers
   - Sungkyun AI Research Institute, Researcher, 2021.09 ~ 2022.03
   - Pidotech, Researcher (Technical Research Pesonnel), 2022.04 ~ 
 
