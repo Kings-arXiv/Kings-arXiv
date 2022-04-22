@@ -1,7 +1,7 @@
 #include <string>
 #include <vector>
 
-// Programmers ÄÚµùÅ×½ºÆ® LV.1: ÇÚµåÆù ¹øÈ£ °¡¸®±â
+// Programmers ì½”ë”©í…ŒìŠ¤íŠ¸ LV.1: í•¸ë“œí° ë²ˆí˜¸ ê°€ë¦¬ê¸°
 
 using namespace std;
 
