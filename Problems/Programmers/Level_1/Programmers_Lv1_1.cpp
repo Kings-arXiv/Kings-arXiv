@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Programmers ÄÚµùÅ×½ºÆ® LV.1: Á÷»ç°¢Çü º°Âï±â
+// Programmers ì½”ë”©í…ŒìŠ¤íŠ¸ LV.1: ì§ì‚¬ê°í˜• ë³„ì°ê¸°
 
 using namespace std;
 
