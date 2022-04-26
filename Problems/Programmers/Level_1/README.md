@@ -2,7 +2,7 @@
 
 ### 1. 직사각형 별찍기
       기술 언어: C++
-      링크: https://programmers.co.kr/learn/courses/30/lessons/12969
+* 링크: https://programmers.co.kr/learn/courses/30/lessons/12969
   
 ### 2. x만큼 간격이 있는 n개의 숫자
 ### 3. 행렬의 덧셈
