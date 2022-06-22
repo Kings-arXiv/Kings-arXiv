@@ -22,8 +22,8 @@
     (Preprints)
 
 🚢 Careers
-  - Sungkyun AI Research Institute, Researcher, 2021.09 ~ 2022.03
-  - Pidotech, Researcher (Technical Research Pesonnel), 2022.04 ~ 
+  - Sungkyun AI Research Institute, Researcher, Sep. 2021 ~ Mar. 2022
+  - Pidotech, Researcher (Technical Research Pesonnel), Apr. 2022 ~ 
 
 💞️ Programming Language
   - C, C++, Python, Java
